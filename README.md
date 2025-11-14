@@ -9,4 +9,4 @@ Blackjack gameplay:
     -User can choose to hit or stand
     -Win/Loss/Push outcomes
     -User is able to stake and winnings/losses affect balance
--
+
