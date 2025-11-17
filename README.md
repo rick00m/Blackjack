@@ -11,8 +11,7 @@ Blackjack gameplay:
 - Win/Loss/Push outcomes
 - User can stake and winnings/losses affect balance
 - Vegas-style CLI with ASCII card art, chip stack display, and colored suits
-- Animated card dealing and beginner-friendly interface
-
+- 'Animated' Card dealing
 ## Screenshots
 
 <img width="1884" height="725" alt="Screenshot 2025-11-17 200142" src="https://github.com/user-attachments/assets/12a8f015-fc35-45ca-ab24-afc5b141490c" />
