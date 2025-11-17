@@ -178,7 +178,7 @@ def hit_stand(player_hand: List[str], dealer_hand: List[str], deck: List[str]) -
     while still_playing:
         console.clear()
         console.rule("[bold magenta]Your Turn[/bold magenta]")
-        # Show dealer's first card as hidden and only display value of second card
+   
         dealer_visible_value = hand_val([dealer_hand[1]])
         console.print(Panel(render_hand(dealer_hand, hide_first=True), title=f"Dealer (showing {dealer_visible_value})"))
         console.print(Panel(render_hand(player_hand), title=f"Player (Total: {hand_val(player_hand)})"))
