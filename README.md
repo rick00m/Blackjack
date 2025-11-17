@@ -1,6 +1,6 @@
-# Blackjack Pre-Flask Console Game
+# Blackjack Pre-CLI Game
 
-This is the original version of my Python blackjack game before it was refactored for a web application. 
+This is the original version of my Python blackjack game before a CLI was added
 
 ## Features
 
