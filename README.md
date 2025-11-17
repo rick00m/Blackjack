@@ -15,7 +15,7 @@ Blackjack gameplay:
 
 ## Screenshots
 
-<img width="1919" height="735" alt="Screenshot 2025-11-17 193614" src="https://github.com/user-attachments/assets/3b6eb6ee-143e-4cdf-a2db-adfa1212db10" />
+<img width="1884" height="725" alt="Screenshot 2025-11-17 200142" src="https://github.com/user-attachments/assets/12a8f015-fc35-45ca-ab24-afc5b141490c" />
 
 
 <img width="1903" height="644" alt="Screenshot 2025-11-17 193740" src="https://github.com/user-attachments/assets/9ea3c036-183a-4037-9ecc-cd2a6915565f" />
