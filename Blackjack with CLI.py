@@ -233,7 +233,7 @@ def main():
     balance = 5000
     keep_playing = True
 
-    console.print(Panel(Text("Welcome to Vegas!", justify="center"), subtitle="Dealer stands on 17"))
+    console.print(Panel(Text("Welcome to Monaghan's Gambling Meccah (MGM) Casino!", justify="center"), subtitle="Dealer stands on 17"))
 
     while keep_playing:
         bet, balance = staking(balance)
@@ -285,3 +285,4 @@ if __name__ == '__main__':
         console.print("\n[red]Game interrupted.[/red]")
 
         sys.exit(0)
+
