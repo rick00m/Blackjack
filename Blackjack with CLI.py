@@ -1,4 +1,4 @@
-#Blackjack inc CLI version
+#Blackjack CLI
 
 import random
 import time
@@ -283,4 +283,5 @@ if __name__ == '__main__':
         main()
     except KeyboardInterrupt:
         console.print("\n[red]Game interrupted.[/red]")
+
         sys.exit(0)
