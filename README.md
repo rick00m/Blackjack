@@ -30,15 +30,3 @@ Blackjack gameplay:
 - `rich` library
 - `colorama` library
 
-## Installation
-
-```bash
-pip install rich colorama
-```
-
-## Running the Game
-
-```bash
-python blackjack_vegas_cli.py
-```
-
